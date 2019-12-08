@@ -1,6 +1,6 @@
 <h1 align="center" >
   <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="100px" /> <br />
-  Bootcamp 9.0 da <a text-decoration="none" color="#7159c1" href="https://rocketseat.com.br">:rocket: Rockeseat</a> - Desafio 8: Utilizando React Hooks
+  Bootcamp 9.0 da :rocket: <a text-decoration="none" href="https://rocketseat.com.br">Rockeseat</a> - Desafio 8: Utilizando React Hooks
 </h1>
 <h2 align="center">
     <img alt="GoStack" src="https://facebook.github.io/react-native/img/header_logo.svg" width="120px" />
@@ -35,13 +35,13 @@
 
 ## 1 - Sobre o desafio
 
-Nesse desafio foi convertido a aplicação desenvolvida no <a text-decoration="none" color="" href="">desafio08</a> para utilização de React Hooks.
+Nesse desafio foi convertido a aplicação desenvolvida no <a text-decoration="none" href="https://github.com/lucasssartori/bootcampdesafio07">desafio07</a> para utilização de React Hooks.
 
 ## 2 - Tecnologias
 
 O Projeto desenvolvido em ReactJS com aplicação de diversas tecnologias e bibliotecas.
 
-  - Todas as tecnologias do <a text-decoration="none" color="" href="">desafio08</a> mais a react-hooks
+  - Todas as tecnologias do <a text-decoration="none" href="https://github.com/lucasssartori/bootcampdesafio07">desafio07</a> mais a react-hooks
 
 
 ## 3 - Funcionalidades

@@ -1,11 +1,13 @@
 import React from 'react';
 import Icon from 'react-native-vector-icons/MaterialIcons';
-import { connect } from 'react-redux';
+import { useSelector } from 'react-redux';
 
 import { Container, Logo, Cart, Item, LogoImg } from './styles';
 import logo from '../../assets/logo.png';
 
-function Header({ navigation, cartSize }) {
+export default function Header({ navigation }) {
+  const cartSize = useSelector(state => state.cart.length);
+
   return (
     <Container>
       <Logo onPress={() => navigation.navigate('Main')}>
@@ -18,7 +20,3 @@ function Header({ navigation, cartSize }) {
     </Container>
   );
 }
-
-export default connect(state => ({
-  cartSize: state.cart.length,
-}))(Header);

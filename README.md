@@ -1,6 +1,6 @@
 <h1 align="center" >
   <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="100px" /> <br />
-  Bootcamp 9.0 da <a text-decoration="none" href="https://rocketseat.com.br">:rocket: Rockeseat</a> - Desafio 7: Arquitetura Flux
+  Bootcamp 9.0 da <a text-decoration="none" color="#7159c1" href="https://rocketseat.com.br">:rocket: Rockeseat</a> - Desafio 8: Utilizando React Hooks
 </h1>
 <h2 align="center">
     <img alt="GoStack" src="https://facebook.github.io/react-native/img/header_logo.svg" width="120px" />
@@ -13,15 +13,15 @@
     <img alt="GitHub Lucas Sartori" src="https://img.shields.io/github/followers/lucasssartori?style=social">
   </a>
 
-  <a href="https://github.com/lucasssartori/bootcampdesafio06/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/lucasssartori/bootcampdesafio05?style=social">
+  <a href="https://github.com/lucasssartori/bootcampdesafio08/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/lucasssartori/bootcampdesafio08?style=social">
   </a>
-  <a href="https://github.com/lucasssartori/bootcampdesafio06/forks/">
-    <img alt="Stargazers" src="https://img.shields.io/github/forks/lucasssartori/bootcampdesafio05?style=social">
+  <a href="https://github.com/lucasssartori/bootcampdesafio08/forks/">
+    <img alt="Stargazers" src="https://img.shields.io/github/forks/lucasssartori/bootcampdesafio08?style=social">
   </a>
 
-  <a href="https://github.com/lucasssartori/bootcampdesafio06/watchers">
-    <img alt="watchers" src="https://img.shields.io/github/watchers/lucasssartori/bootcampdesafio05?style=social">
+  <a href="https://github.com/lucasssartori/bootcampdesafio08/watchers">
+    <img alt="watchers" src="https://img.shields.io/github/watchers/lucasssartori/bootcampdesafio08?style=social">
   </a>
 </p>
 
@@ -35,24 +35,14 @@
 
 ## 1 - Sobre o desafio
 
-Nesse desafio foi criada uma aplicação mobile de um carrinho de compras. Toda estrutura de estado do carrinho de compras foi feito com a aplicação da arquitetura Flux através do uso das bibliotecas Redux e Redux Saga.
+Nesse desafio foi convertido a aplicação desenvolvida no <a text-decoration="none" color="" href="">desafio08</a> para utilização de React Hooks.
 
 ## 2 - Tecnologias
 
 O Projeto desenvolvido em ReactJS com aplicação de diversas tecnologias e bibliotecas.
 
-  - react-native
-  - redux
-  - redux saga
-  - axios
-  - jason-server (Simulador de backend)
-  - prop-types
-  - react-icons
-  - styled-components
-  - eslint
-  - prettier
-  - editorconfig
-  - reactotron
+  - Todas as tecnologias do <a text-decoration="none" color="" href="">desafio08</a> mais a react-hooks
+
 
 ## 3 - Funcionalidades
 

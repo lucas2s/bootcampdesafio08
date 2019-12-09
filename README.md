@@ -59,7 +59,7 @@ O Projeto desenvolvido em ReactJS com aplicação de diversas tecnologias e bibl
 
 <ol>
   <li>Tela Home - Listagem dos produtos.</li>
-  <li>Tela Cart - Responsável marcados com star pelo usuário selecionado.</li>
+  <li>Tela Cart - Responsável por listar os produtos adicionados no carrinho.</li>
 </ol>
 <table style="width:100%">
   <tr>
